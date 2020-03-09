@@ -55,7 +55,7 @@
 
 ## Web 浏览器
 - Web浏览器是用来读取HTML文件，然后识别文件里面的标签内容，并将其作为网页显示，并不是直接显示HTML标签
-- 常见的web浏览器有：谷歌浏览器chrome，Internet Explorer，Firefox，Safari，等等，对于我们开发的时候
+- 常见的web浏览器有：谷歌浏览器chrome，Internet Explorer，Firefox，Safari，等等
 
 
 ## Tips
